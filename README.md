@@ -1,2 +1,2 @@
 # go-exercism
-My personal solution during my GO learning for [exercism.org]("https://exercism.org") exercises
+My personal solution during my GO learning for [exercism](https://exercism.org 'exercism') exercises
